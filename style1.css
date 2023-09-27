@@ -1,0 +1,13 @@
+body{padding-top: 15%;
+   padding-left: 2%;
+   background-image:url(sobuj1.png);
+   background-size: 30dvh;
+   background-size: 80dvw;
+   background-repeat: no-repeat;
+}
+h1{font-family: 'Courier New', Courier, monospace;
+font-size: 4cap;color: rgb(29, 18, 4);}
+h3{color: rgb(8, 70, 70);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+button{background-color: rgb(51, 37, 172);color: aliceblue;width: 10%;height: 30px;border-radius: 50cap;}
+h2{color: rgb(10, 19, 66);}
